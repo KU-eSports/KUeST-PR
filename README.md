@@ -1,1 +1,5 @@
-# KUeST-poster
+# KUeST-PR
+
+## このリポジトリの目的
+
+KUeSTの広報関係の作業を行います。
