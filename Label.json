@@ -1,0 +1,118 @@
+[
+  {
+    "name": "base-issue",
+    "color": "ffffff",
+    "description": "親issue、チェックボックスとリンク活用"
+  },
+  {
+    "name": "チュートリアル",
+    "color": "faf0e6",
+    "description": "新しいソフト等の使い方の勉強など"
+  },
+  {
+    "name": "質問・疑問点",
+    "color": "0000ff",
+    "description": "可能なら関連するissueとリンク付け求む"
+  },
+  {
+    "name": "タイプ: 機能追加",
+    "color": "afeeee",
+    "description": "新機能の追加"
+  },
+  {
+    "name": "タイプ: バグ",
+    "color": "ff0000",
+    "description": "バグ発生・動作不良"
+  },
+  {
+    "name": "タイプ: 修正",
+    "color": "00ff7f",
+    "description": "実装済み機能の改善・修正"
+  },
+  {
+    "name": "状態: 検討",
+    "color": "9370db",
+    "description": "将来的に実装予定"
+  },
+  {
+    "name": "状態: 未着手",
+    "color": "00ffff",
+    "description": "実装決定・近いうちに作業開始"
+  },
+  {
+    "name": "状態: 作業中",
+    "color": "87cefa",
+    "description": "現在作業中"
+  },
+  {
+    "name": "状態: 確認必要",
+    "color": "f0e68c",
+    "description": "レビュー待ち"
+  },
+  {
+    "name": "状態: 保留",
+    "color": "2f4f4f",
+    "description": "後回しにして別のIssue優先"
+  },
+  {
+    "name": "作業: 会議",
+    "color": "ffc0cb",
+    "description": "作業の前に会議が必要"
+  },
+  {
+    "name": "作業: 立案・ラフ",
+    "color": "8b4513",
+    "description": "草案・ラフの作成"
+  },
+  {
+    "name": "作業: 素材作り",
+    "color": "1e90ff",
+    "description": "素材の作成"
+  },
+  {
+    "name": "作業: 実装作業",
+    "color": "7fffd4",
+    "description": "コードを書いて実装"
+  },
+  {
+    "name": "優先度: 緊急",
+    "color": "800000"
+  },
+  {
+    "name": "優先度: 高",
+    "color": "ff4500"
+  },
+  {
+    "name": "優先度: 中",
+    "color": "ffff00"
+  },
+  {
+    "name": "優先度: 低",
+    "color": "000080"
+  },
+  {
+    "name": "相談必要",
+    "color": "ff00ff",
+    "description": "個人で解決できない問題"
+  },
+  {
+    "name": "Close: 完了",
+    "color": "6495ed",
+    "description": "正常に終了してClose済"
+  },
+  {
+    "name": "Close: 対応せず",
+    "color": "808080",
+    "description": "対応しない・修正しない"
+  },
+  {
+    "name": "Close: 間違い",
+    "color": "bc8f8f",
+    "description": "誤って作られたIssue"
+  },
+  {
+    "name": "お願い",
+    "color": "EA019F",
+    "description": "注意書き・共有したいことなど"
+  }
+]
